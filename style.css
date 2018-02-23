@@ -1,0 +1,37 @@
+#hh1 {
+	color: pink;
+	background-color: pink;
+	opacity: 20%;
+	padding: 200px 0 200px 400px;
+	text-align: center;
+	font-size: 50px;
+	background-image: url(image/aa3.jpeg);
+	background-repeat: no-repeat;
+	background-attachment: fill;
+    background-position: center; 
+    background-size: cover;
+
+}
+
+body{
+	background-color: #F0F1F5;
+	font-weight: bold;
+	
+}
+
+h1{
+	color: pink;
+	font-size: 40px;
+	padding-left: 5%;
+
+}
+
+
+img{
+	margin-right: 5%;
+	padding-left: 10%;
+}
+
+p{
+	padding-left: 3%;
+}
